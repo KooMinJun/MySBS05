@@ -1,0 +1,7 @@
+#Sat Nov 26 17:37:36 KST 2016
+base.0=C\:\\Users\\Koo\\AndroidStudioProjects\\MyApplication2\\practice1126-SampleMariaDB\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_be8dfec201374274f5b81b180dc39d7ccddabdea
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Koo\\AndroidStudioProjects\\MyApplication2\\practice1126-SampleMariaDB\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c49c1ba066582d169898216f2e9d3724762dc7c7\\classes.dex
+base.1=C\:\\Users\\Koo\\AndroidStudioProjects\\MyApplication2\\practice1126-SampleMariaDB\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c49c1ba066582d169898216f2e9d3724762dc7c7
+file.0=C\:\\Users\\Koo\\AndroidStudioProjects\\MyApplication2\\practice1126-SampleMariaDB\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_be8dfec201374274f5b81b180dc39d7ccddabdea\\classes.dex
